@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshavshama96/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshavshama96/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
+## Array
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
