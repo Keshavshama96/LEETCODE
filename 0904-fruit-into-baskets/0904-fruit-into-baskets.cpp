@@ -7,7 +7,7 @@ public:
         int maxfruits=0;
         while(j<fruits.size()){
             mp[fruits[j]]++;
-             
+            
              if(mp.size()<=2){
              maxfruits=max(maxfruits,j-i+1);
              j++;
