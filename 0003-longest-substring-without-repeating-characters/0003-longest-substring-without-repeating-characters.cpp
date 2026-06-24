@@ -35,10 +35,10 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int>mp;
+     unordered_map<char, int>mp;
         int i=0;
         int j=0;
-       int maxlen=0;
+        int maxlen=0;
         while(j<s.size()){
          mp[s[j]]++;
         
@@ -46,12 +46,12 @@ public:
             maxlen=max(maxlen,j-i+1);
             j++;
          }
-        else if(mp[s[j]]>1){
-         while(mp[s[j]]>1) {
-        // Left character ki frequency kam karo
-          mp[s[i]]--;
-         // Window shrink karo
-           i++;
+        else if(mp[s[j]]>1){//1 se jyada hai mtlb duplicate aagya current el ka
+            while(mp[s[j]]>1) {
+            // Left character ki frequency kam karo
+            mp[s[i]]--;
+            // Window shrink karo
+            i++;
           }
            j++;
           }   
