@@ -1,3 +1,5 @@
+//Aaditya verma
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
@@ -26,3 +28,24 @@ public:
     return maxlen;
     }
 };
+
+
+// //Mine approach  
+
+// class Solution {
+// public:
+//     int lengthOfLongestSubstring(string s) {
+//         unordered_map<char, int>mp;
+//         int i=0;
+//         int j=0;
+//        int maxlen=0;
+//         while(j<s.size()){
+//          mp[s[j]]++;
+            
+//                 }
+             
+//            }
+//         }
+//     return maxlen;
+//     }
+// };
