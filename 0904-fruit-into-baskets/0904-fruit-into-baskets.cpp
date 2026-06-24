@@ -6,19 +6,20 @@ public:
         int j=0;
         int maxfruits=0;
         while(j<fruits.size()){
-            mp[fruits[j]]++;
+            mp[fruits[j]]++;//frequency increasing
             
-             if(mp.size()<=2){
-             maxfruits=max(maxfruits,j-i+1);
+             if(mp.size()<=2){//mtlb 2 fruits (valid)
+             maxfruits=max(maxfruits,j-i+1);//updation of the maxlen
              j++;
              }
-             else if(mp.size()>2){
+             //window shrinking 
+             else if(mp.size()>2){//mtlb invalid
               while(mp.size()>2){
-                 mp[fruits[i]]--;
-                 if(mp[fruits[i]]==0){
-                    mp.erase(fruits[i]);
+                 mp[fruits[i]]--;//kam kro frequency left se
+                 if(mp[fruits[i]]==0){//mtlb left ko htana hai 
+                    mp.erase(fruits[i]);//htado
                  }
-                 i++;
+                 i++;//shrink
               }
               j++;
              }
