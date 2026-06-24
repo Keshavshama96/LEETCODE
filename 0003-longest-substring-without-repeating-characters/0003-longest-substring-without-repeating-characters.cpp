@@ -1,36 +1,4 @@
-//Aaditya verma
-
-class Solution {
-public:
-    int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int>mp;
-        int i=0;
-        int j=0;
-       int maxlen=0;
-        while(j<s.size()){
-         mp[s[j]]++;
-             // agr mp ka size == window size ...mtlb valid hai 
-           if(mp.size()==j-i+1){
-              maxlen=max(maxlen,j-i+1);
-              j++;
-           }//winodw bdi hai mtlb koi to duplicate aagya ab 
-           else if(mp.size()<j-i+1){
-                while(mp.size()<j-i+1){//jab tak bdi hai window size
-                    mp[s[i]]--;//left waale ki frquency kam kro
-                    if(mp[s[i]] == 0) {//agar frequency 0 ho gayi
-                        mp.erase(s[i]);//map se remove karo
-                    }
-                    i++;//shrink window
-                }
-              j++;
-           }
-        }
-    return maxlen;
-    }
-};
-
-
-// //Mine approach  
+// //Aaditya verma
 
 // class Solution {
 // public:
@@ -41,11 +9,54 @@ public:
 //        int maxlen=0;
 //         while(j<s.size()){
 //          mp[s[j]]++;
-            
+//              // agr mp ka size == window size ...mtlb valid hai 
+//            if(mp.size()==j-i+1){
+//               maxlen=max(maxlen,j-i+1);
+//               j++;
+//            }//winodw bdi hai mtlb koi to duplicate aagya ab 
+//            else if(mp.size()<j-i+1){
+//                 while(mp.size()<j-i+1){//jab tak bdi hai window size
+//                     mp[s[i]]--;//left waale ki frquency kam kro
+//                     if(mp[s[i]] == 0) {//agar frequency 0 ho gayi
+//                         mp.erase(s[i]);//map se remove karo
+//                     }
+//                     i++;//shrink window
 //                 }
-             
+//               j++;
 //            }
 //         }
 //     return maxlen;
 //     }
 // };
+
+
+//Mine approach  
+
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        unordered_map<char, int>mp;
+        int i=0;
+        int j=0;
+       int maxlen=0;
+        while(j<s.size()){
+         mp[s[j]]++;
+        
+         if(mp[s[j]]==1){//frequency is 1 then valid
+            maxlen=max(maxlen,j-i+1);
+            j++;
+         }
+        else if(mp[s[j]]>1){
+         while(mp[s[j]]>1) {
+        // Left character ki frequency kam karo
+          mp[s[i]]--;
+         // Window shrink karo
+           i++;
+          }
+           j++;
+          }   
+
+        }
+    return maxlen;
+    }
+};
