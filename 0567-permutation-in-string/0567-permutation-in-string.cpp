@@ -50,8 +50,9 @@ public:
          }else{
             s2_vec[s2[i]-'a']--;
             i++;
+             j++;
          }
-          j++;
+         
         }
       }   
      return false;
