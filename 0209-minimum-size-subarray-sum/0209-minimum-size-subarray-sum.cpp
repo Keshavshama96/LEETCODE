@@ -34,8 +34,8 @@ public:
         else if(sum>=target){//valid
            while(sum>=target){//jab tak bda hai try to minimize
            //before shrinking
-            minlen=min(minlen,j-i+1);// cal subarray
-            sum-=nums[i];//minus privious sum
+            minlen=min(minlen,j-i+1);//// Update minimum length
+            sum-=nums[i];//minus previous sum (window se htado)
             i++;//shift
            }
            j++;
