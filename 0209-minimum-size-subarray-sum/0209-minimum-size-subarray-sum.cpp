@@ -28,18 +28,18 @@ public:
        while(j<nums.size()){
         sum+=nums[j];
 
-        if(sum<target){
+        if(sum<target){//invalid
             j++;
         }
         else if(sum>=target){//valid
-           while(sum>=target){
-            minlen=min(minlen,j-i+1);
-            sum-=nums[i];
-            i++;
+           while(sum>=target){//jab tak bda hai try to minimize
+           //before shrinking
+            minlen=min(minlen,j-i+1);// cal subarray
+            sum-=nums[i];//minus privious sum
+            i++;//shift
            }
            j++;
-        }
-        
+         } 
        }
         return (minlen == INT_MAX) ? 0 : minlen;
     }
