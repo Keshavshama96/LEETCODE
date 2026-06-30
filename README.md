@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Keshavshama96/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Keshavshama96/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/Keshavshama96/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Keshavshama96/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
