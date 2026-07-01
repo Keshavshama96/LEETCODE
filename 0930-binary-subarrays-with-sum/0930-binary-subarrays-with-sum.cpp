@@ -1,32 +1,31 @@
 class Solution {
 public:
-    int numSubarraysWithSum(vector<int>& nums, int goal) {
-        int prefix_zeros = 0;
-        int window_sum = 0;
+
+    int atMost(vector<int>& nums, int goal){
+
+        if(goal < 0) return 0;
+
+        int i = 0;
+        int sum = 0;
         int count = 0;
-        
-        int i = 0, j = 0;
-        
-        while(j < nums.size()) {
-            window_sum += nums[j];
-            
-            while (i < j && (nums[i] == 0 || window_sum > goal)) {
-                if (nums[i] == 1) {
-                    prefix_zeros = 0;
-                } else {
-                    prefix_zeros += 1;
-                }
-                
-                window_sum -= nums[i];
+
+        for(int j = 0; j < nums.size(); j++){
+
+            sum += nums[j];
+
+            while(sum > goal){
+                sum -= nums[i];
                 i++;
             }
-            
-            if (window_sum == goal) {
-                count += 1 + prefix_zeros;
-            }
-            j++;
+
+            count += (j - i + 1);
         }
-        
+
         return count;
+    }
+
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+
+        return atMost(nums, goal) - atMost(nums, goal - 1);
     }
 };
