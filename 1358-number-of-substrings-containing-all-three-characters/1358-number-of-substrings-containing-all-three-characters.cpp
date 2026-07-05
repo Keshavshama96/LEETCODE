@@ -28,20 +28,24 @@ public:
         int result=0;
         int i=0;
         int j=0;
-        while(j<s.size()){
-            
-         mp[s[j]]++;
-         //abhi agar nhi hai a b and c mtlb aage jao abhi
+        while(j<s.size()){ 
+         mp[s[j]]++;// Naya character window me add karo agar already hai to uski freq increase kro
+         // Agar abhi tak a, b ya c me se koi ek bhi missing hai
+         // to window ko aur expand karo
          if(mp['a']==0 || mp['b']==0 || mp['c']==0){
             j++;
-         }
+         }  // Agar teeno characters mil gaye
          else if(mp['a']>0 && mp['b']>0 && mp['c']>0){
+            // Jab tak window valid hai,
+            // har valid window ke liye answer add karo
             while(mp['a']>0 && mp['b']>0 && mp['c']>0){
                 //mtlb valid hai ab 
-               result=result+(n-j);
+               result=result+(n-j);//result
+               // Left se window ko shrink karo
                 mp[s[i]]--;
+                // Left pointer aage badhao
                 i++;
-            }
+            }// Right pointer ko next character par le jao
             j++;
          }
          
