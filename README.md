@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Keshavshama96/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/Keshavshama96/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Keshavshama96/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Keshavshama96/LEETCODE/tree/master/0148-sort-list) |
+| [1288-remove-covered-intervals](https://github.com/Keshavshama96/LEETCODE/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
