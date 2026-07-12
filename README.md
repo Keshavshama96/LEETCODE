@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Keshavshama96/LEETCODE/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Keshavshama96/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
