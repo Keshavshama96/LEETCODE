@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keshavshama96/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Keshavshama96/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Keshavshama96/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keshavshama96/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Keshavshama96/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Keshavshama96/LEETCODE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Keshavshama96/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keshavshama96/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keshavshama96/LEETCODE/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Keshavshama96/LEETCODE/tree/master/1288-remove-covered-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Keshavshama96/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
