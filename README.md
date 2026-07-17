@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Keshavshama96/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Keshavshama96/LEETCODE/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Keshavshama96/LEETCODE/tree/master/0148-sort-list) |
 | [0567-permutation-in-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Database
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Keshavshama96/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Keshavshama96/LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Keshavshama96/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keshavshama96/LEETCODE/tree/master/0217-contains-duplicate) |
