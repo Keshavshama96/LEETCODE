@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Keshavshama96/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Keshavshama96/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Keshavshama96/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keshavshama96/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Keshavshama96/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Keshavshama96/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Keshavshama96/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Keshavshama96/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Keshavshama96/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Keshavshama96/LEETCODE/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Keshavshama96/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Keshavshama96/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Keshavshama96/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Keshavshama96/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Keshavshama96/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Keshavshama96/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keshavshama96/LEETCODE/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Keshavshama96/LEETCODE/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
