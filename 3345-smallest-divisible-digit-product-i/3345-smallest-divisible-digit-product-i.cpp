@@ -6,13 +6,13 @@ public:
             int copy = n;
             int product = 1;
 
-            while (copy > 0) {
-                int lastDigit = copy % 10;
-                product *= lastDigit;
-                copy /= 10;
+            while (copy>0) {
+                int lastDigit = copy%10;
+                product*= lastDigit;
+                copy/= 10;
             }
 
-            if (product % t == 0) {
+            if (product%t == 0) {
                 return n;
             }
 
