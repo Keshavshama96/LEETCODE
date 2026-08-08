@@ -31,6 +31,6 @@ public:
     int subarraysWithKDistinct(vector<int>& nums, int k) {
         
         //main point (substraction)
-      return slidingWindow(nums ,k) -slidingWindow(nums ,k-1);
+      return slidingWindow(nums ,k) - slidingWindow(nums ,k-1);
     }
 };
