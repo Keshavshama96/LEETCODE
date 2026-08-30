@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Keshavshama96/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Keshavshama96/LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Keshavshama96/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Keshavshama96/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keshavshama96/LEETCODE/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Keshavshama96/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Keshavshama96/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Keshavshama96/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
