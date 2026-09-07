@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Keshavshama96/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Keshavshama96/LEETCODE/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Keshavshama96/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Keshavshama96/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Keshavshama96/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Keshavshama96/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Keshavshama96/LEETCODE/tree/master/1406-stone-game-iii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Keshavshama96/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
